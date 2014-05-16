@@ -21,6 +21,8 @@ Triangle Creative Coders is a group of creative coding enthusiasts based in Rale
 * [MaxMSP/Jitter](http://cycling74.com/products/max/)
 * [SuperCollider](http://supercollider.sourceforge.net/)
 * [Overtone](http://overtone.github.io/)
+* [ChucK](http://chuck.cs.princeton.edu/)
+* [Quartz Composer](http://en.wikipedia.org/wiki/Quartz_Composer)
 * and more!
 
 We are in the process or organizing our first meeting and will post details when they are available. The current target time is 7:00pm on the 20th of May, 2014, at the [James B. Hunt Library at North Carolina State University](http://www.lib.ncsu.edu/huntlibrary), either in the [Teaching and Visualization Lab](http://www.lib.ncsu.edu/spaces/teaching-and-visualization-lab) or in the [Creativity Studio](http://www.lib.ncsu.edu/spaces/creativity-studio-north).
